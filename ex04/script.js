@@ -20,3 +20,6 @@ if (operacao == "+") {
 alert("Resultado: " + resultado);
 
 console.log("Resultado:", resultado);
+
+
+//SANDREY CRISTHIAN MOREIRA DE SOUZA

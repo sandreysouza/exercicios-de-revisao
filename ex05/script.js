@@ -32,3 +32,6 @@ alert(nome + " possui IMC igual a " + imc + " e está classificado como " + clas
 console.log("Nome:", nome);
 console.log("IMC:", imc);
 console.log("Classificação:", classificacao);
+
+
+//SANDREY CRISTHIAN MOREIRA DE SOUZA

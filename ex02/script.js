@@ -12,3 +12,5 @@ console.log("Nome:", nome, "| Tipo:", typeof nome);
 console.log("Idade:", idade, "| Tipo:", typeof idade);
 console.log("Altura:", altura, "| Tipo:", typeof altura);
 console.log("Estudante:", estudante, "| Tipo:", typeof estudante);
+
+//SANDREY CRISTHIAN MOREIRA DE SOUZA
