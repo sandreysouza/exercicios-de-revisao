@@ -1,0 +1,29 @@
+body {
+    background-color: #257fc9;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    width: 400px;
+    margin: 50px auto;   
+    
+}
+
+.titulo {
+    color: #61188b;
+    font-size: 30px;
+    margin-bottom: 60px;
+    position: absolute;
+    top: 250px;
+    left: 75%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+    border-radius: 20%;
+    border: 2px solid #61188b;
+}
